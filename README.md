@@ -1,4 +1,4 @@
-Hi, I’m 👋
+Hi, I’m Hannes
 
 I’m technically minded with a strong interest in building internal tools and improving workflows. I’m passionate about developing LLM-based solutions and exploring how AI can create real value in customer experience, as I strongly believe this is the future of scalable and intelligent systems.
 
