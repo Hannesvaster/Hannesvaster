@@ -24,14 +24,3 @@ Customer experience technology
 
 Scalable system design
 
-🛠 Tech & Tools
-
-Python
-
-Git & GitHub
-
-APIs & integrations
-
-LLM concepts & prompt engineering
-
-Web-based applications
