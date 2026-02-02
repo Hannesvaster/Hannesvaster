@@ -29,7 +29,7 @@ I enjoy working on projects where backend systems, data, and clean architecture 
 ## 🛠 Tech Stack
 
 **Backend:**  
-FastAPI · Python · PostgreSQL · SQLAlchemy · Alembic · JWT  
+FastAPI · Python · PostgreSQL · SQLAlchemy · Alembic · JWT · NodeJS · JavaScript · MySQL
 
 **Frontend & Mobile:**  
 React · Flutter · Web APIs  
