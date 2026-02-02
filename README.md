@@ -1,41 +1,61 @@
-I’m technically minded with a strong interest in building internal tools and improving workflows. I enjoy developing software solutions that solve real problems and make processes more efficient.
+# Hi, I’m Hannes 👋
 
-I’m passionate about exploring LLM-based systems and AI-driven automation, but I’m equally interested in core software development principles such as clean code, system design, and building reliable web applications.
+I’m technically minded with a strong interest in building internal tools and improving workflows.  
+I’m passionate about exploring how automation and modern software systems can create real value, and I strongly believe this is the future of scalable and intelligent technology.
 
-I’m driven by high-impact problems and enjoy working on projects where automation, data, and modern technology come together to create meaningful results.
+I enjoy working on projects where backend systems, data, and clean architecture come together to solve real-world problems.
 
-🚀 What I’m currently working on
+---
 
-Building small web applications and backend services
+## 🚀 What I’m working on
 
-Learning core software development concepts and best practices
+- Building backend APIs with authentication and database integration  
+- Developing full-stack and frontend applications with real users in mind  
+- Exploring automation and workflow optimization through software  
+- Learning how to design scalable and reliable systems  
 
-Exploring LLM-based systems and automation use cases
+---
 
-Working on projects focused on workflow optimization and user experience
+## 🧠 Interests
 
-🧠 Interests
+- Backend development  
+- Automation & internal tools  
+- API design  
+- System architecture  
+- User-focused software solutions  
 
-Software development (backend & frontend)
+---
 
-Automation & internal tools
+## 🛠 Tech Stack
 
-LLMs & AI systems
+**Backend:**  
+FastAPI · Python · PostgreSQL · SQLAlchemy · Alembic · JWT  
 
-Workflow optimization
+**Frontend & Mobile:**  
+React · Flutter · Web APIs  
 
-Scalable system design
+**Tools:**  
+Docker · Git · GitHub · REST APIs  
 
-🛠 Tech & Tools
+---
 
-Python
+## 📌 Featured Projects
 
-JavaScript
+### 🔹 SupportFlow API
+A production-style backend system with JWT authentication, PostgreSQL database, and protected ticket management endpoints.
 
-Git & GitHub
+### 🔹 Home Café Map Web App
+A collaborative web project for discovering and managing home cafés across Estonia using an interactive map interface and user authentication.
 
-APIs & integrations
+### 🔹 FlightPlanner SDK (Flutter)
+A mobile development project focused on SDK setup, API integration, and dependency management using Flutter.
 
-Web applications
+---
 
-Databases (basics)
+## 🎯 Goal
+
+I’m seeking opportunities where I can grow as a junior software developer, contribute to real projects, and continue learning through hands-on engineering challenges.
+
+---
+
+Thanks for stopping by!
